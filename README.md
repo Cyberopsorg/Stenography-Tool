@@ -2,6 +2,7 @@
 
 A desktop application to hide secret text inside images using LSB (Least Significant Bit) steganography. Built with Python and Tkinter.
 
+
 <img width="982" height="764" alt="App Screenshot" src="https://github.com/user-attachments/assets/98a07727-a86b-4a2f-a22c-297a73964faa" />
 
 ## How It Works
